@@ -9,10 +9,11 @@ A simple music player that reads the music stored on your device to play it. It 
 5) Play previous song
 6) Fast forward song.
 7) Rewind song.
-8) An AUDIOVISUALIZER that reacts to the song and behaves accordingly.
-9) A fully functioning SEEKBAR that tells the PROGRESS of the song or can be used to SKIP the song to a particular TIMESTAMP..
-10) TextView that tells the total duration of the song and how long the song has been placed.
-11) A beautiful U.I.
+8) Added animation to the song ImageView when the song is paused or song is changed.
+9) An AUDIOVISUALIZER that reacts to the song and behaves accordingly.
+10) A fully functioning SEEKBAR that tells the PROGRESS of the song or can be used to SKIP the song to a particular TIMESTAMP.
+11) TextView that tells the total duration of the song and how long the song has been placed.
+12) A beautiful U.I.
 
 ## Contributor
 
@@ -28,5 +29,15 @@ Kumar Satwik
 
 
 
-| <img src="https://1.bp.blogspot.com/-PdXAATXRVK0/YPFmjJnBuYI/AAAAAAAADj4/Kc-sXUZaSDAXvSZKpmppDwJjJDpsZqjsgCLcBGAsYHQ/w186-h338/WhatsApp%2BImage%2B2021-07-16%2Bat%2B16.27.30.jpeg"> | <img src="https://1.bp.blogspot.com/-8LemVhPRNc0/YPFmiwRTYrI/AAAAAAAADj0/j7hVeE0dGX4rHjrW6cySWuXxMoSUarMFgCLcBGAsYHQ/w174-h375/WhatsApp%2BImage%2B2021-07-16%2Bat%2B16.27.30%2B%25281%2529.jpeg"> | <img src="https://1.bp.blogspot.com/-CZaT51jFA-k/YPFmi3u_e1I/AAAAAAAADjw/dsw4YykTPfAjdWmd3rX-szrZazmVfwHiwCLcBGAsYHQ/w182-h404/WhatsApp%2BImage%2B2021-07-16%2Bat%2B16.27.30%2B%25282%2529.jpeg"> |
+| <img src="https://bit.ly/2VVxg21"> | <img src="https://bit.ly/3BfH9Id"> | <img src="https://bit.ly/36JjXnE"> |
 | ---------------------------------------------- | -------------------------------------------- | ------------------------------------------- |
+    
+## Others
+    
+   Thanks to Tanishq Sam for helping me with the theme.
+    
+<table>
+<tr>
+    <td align="center"><a href="https://github.com/tanishqsam"><img src="https://github.com/tanishqsam.png?" width="80px;" alt="Tanishq Sam"/><br /><sub><b>Tanishq Sam</b></a><br /><sub><b>tanishqsam</b><br /><a href="https://github.com/developer-tanishqsam" title="Code"</a> <a href="#ideas-tsam" title="Programming"</a></td>
+    </tr>
+</table>
