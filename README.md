@@ -15,7 +15,7 @@ A simple music player that reads the music stored on your device to play it. It 
 11) TextView that tells the total duration of the song and how long the song has been placed.
 12) A beautiful U.I.
 
-## Contributor
+## Developer
 
 Kumar Satwik
 
@@ -34,10 +34,12 @@ Kumar Satwik
     
 ## Others
     
-   Thanks to Tanishq Sam for helping me with the theme.
+   Thanks to Tanishq Sam and Gaurav Khater for helping me with the theme.
     
 <table>
 <tr>
-    <td align="center"><a href="https://github.com/tanishqsam"><img src="https://github.com/tanishqsam.png?" width="80px;" alt="Tanishq Sam"/><br /><sub><b>Tanishq Sam</b></a><br /><sub><b>tanishqsam</b><br /><a href="https://github.com/developer-tanishqsam" title="Code"</a> <a href="#ideas-tsam" title="Programming"</a></td>
+    <td align="center"><a href="https://github.com/tanishqsam"><img src="https://github.com/tanishqsam.png?" width="80px;" alt="Tanishq Sam"/><br /><sub><b>Tanishq Sam</b></a><br /><sub><b>tanishqsam</b><br /><a href="https://github.com/tanishqsam" title="Code"</a> <a href="#ideas-tsam" title="Programming"</a></td>
+    
+   <td align="center"><a href="https://github.com/theBatman07"><img src="https://github.com/theBatman07.png?" width="80px;" alt="Gaurav Khater"/><br /><sub><b>Gaurav Khater</b></a><br /><sub><b>theBatman07</b><br /><a href="https://github.com/theBatman07" title="Code"</a> <a href="#ideas-gkhater" title="Programming"</a></td>
     </tr>
 </table>
