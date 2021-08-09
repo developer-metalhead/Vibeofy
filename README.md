@@ -32,7 +32,7 @@ Kumar Satwik
 
 ## Screenshots
 
-| <img src="https://bit.ly/2VVxg21"> | <img src="https://bit.ly/3BfH9Id"> | <img src="https://bit.ly/36JjXnE"> |
+| <img src="https://1.bp.blogspot.com/-KK8yTwUvl-M/YPZ74zr-_xI/AAAAAAAADl4/QHIyQ1PjSac_oV2bLWAIvJhHt-3asitngCLcBGAsYHQ/s16000/Screenshot_20210720-125429_Vibeofy.jpg21"> | <img src="https://1.bp.blogspot.com/-h5Lh7b93f3U/YPZ75IKeG8I/AAAAAAAADmA/vG0Y6LlWY68r1sIiLLZ_u79LRIoLLjcHgCLcBGAsYHQ/s16000/Screenshot_20210720-125454_Vibeofy.jpg"> | <img src="https://1.bp.blogspot.com/-iPTBE1U_-HM/YPZ75OVmiaI/AAAAAAAADl8/DlH1rBtTo0AJmSuiNBQHXaVd5QqUg2WKQCLcBGAsYHQ/s16000/Screenshot_20210720-125505_Vibeofy.jpg"> |
 | ---------------------------------------------- | -------------------------------------------- | ------------------------------------------- |
     
 ## Others
