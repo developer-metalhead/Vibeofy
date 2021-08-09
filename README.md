@@ -37,7 +37,7 @@ Kumar Satwik
     
 ## Others
     
-   Thanks to Tanishq Sam and Gaurav Khater for helping me with the theme.
+   Thanks to Tanishq Sam and Gaurav Khater for helping me out with the theme.
     
 <table>
 <tr>
