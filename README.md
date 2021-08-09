@@ -1,4 +1,6 @@
-# Vibeofy
+# [Vibeofy](https://play.google.com/store/apps/details?id=com.developermetalhead.vibeofy)
+
+Playstore Link: https://play.google.com/store/apps/details?id=com.developermetalhead.vibeofy
 
 A simple music player that reads the music stored on your device to play it. It has basic functionalities like:
 
